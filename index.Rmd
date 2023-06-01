@@ -1,6 +1,6 @@
 ---
 title: "Janneke Hulsen"
-image: "../data/portrait.jpg"
+image: "./data/portrait.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/janneke-hulsen-470564131/"
