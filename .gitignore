@@ -1,0 +1,10 @@
+# Folders
+docs/
+data/
+results/
+
+# RStudio
+.Rhistory
+.Renviron
+.Rproj.user
+webprofile.Rproj
