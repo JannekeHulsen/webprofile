@@ -1,0 +1,17 @@
+---
+title: "Janneke Hulsen"
+image: "../data/portrait.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/janneke-hulsen-470564131/"
+  - label: Twitter
+    url: "https://twitter.com/JannekeHulsen"
+  - label: GitHub
+    url: "https://github.com/JannekeHulsen"
+  - label: Email
+    url: "mailto:hulsen.janneke@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+Ik ben Janneke en ik woon samen met Lisette.

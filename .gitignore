@@ -8,3 +8,7 @@ results/
 .Renviron
 .Rproj.user
 webprofile.Rproj
+.Rprofile
+
+# renv
+renv/
