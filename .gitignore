@@ -12,3 +12,6 @@ webprofile.Rproj
 
 # renv
 renv/
+
+# misc
+.DS_Store
