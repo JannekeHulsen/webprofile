@@ -1,6 +1,6 @@
 ---
 title: "Janneke Hulsen"
-image: "./data/portrait.jpg"
+image: "./portrait.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/janneke-hulsen-470564131/"
@@ -15,3 +15,22 @@ output:
 ---
  
 Ik ben Janneke en ik woon samen met Lisette.
+
+```{r, echo=FALSE}
+library(metathis)
+
+meta() %>%
+  meta_description("Janneke Hulsen: bioinformatician with experience in single-cell data analysis and immunology") %>%
+  meta_name("github-repo" = "jannekehulsen.github.io/webprofile/") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "Janneke Hulsen: bioinformatician with experience in single-cell data analysis and immunology",
+    url = "https://jannekehulsen.github.io/webprofile/",
+    image = "https://raw.githubusercontent.com/JannekeHulsen/webprofile/main/portrait.jpg",
+    image_alt = "Photo of Janneke Hulsen",
+    og_author = c("Janneke Hulsen"),
+    twitter_card_type = "summary",
+    twitter_creator = "@JannekeHulsen"
+  )
+```
+
