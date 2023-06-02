@@ -15,3 +15,5 @@ renv/
 
 # misc
 .DS_Store
+
+/.quarto/
